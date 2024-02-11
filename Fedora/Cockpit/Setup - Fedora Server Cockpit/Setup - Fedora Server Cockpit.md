@@ -1,4 +1,4 @@
-# Fedora Server Cockpit - Fedora Server
+# Setup - Fedora Server Cockpit
 
 2024-01-27
 
