@@ -38,5 +38,5 @@ Simply click on the "Limited Access" button and provided your password once agai
 
 1. [Fedora Cockpit -](https://cockpit-project.org/running.html#fedora)
 	
-2.[Additional Cockpit app -](https://cockpit-project.org/applications.html)
+2. [Additional Cockpit app -](https://cockpit-project.org/applications.html)
 
