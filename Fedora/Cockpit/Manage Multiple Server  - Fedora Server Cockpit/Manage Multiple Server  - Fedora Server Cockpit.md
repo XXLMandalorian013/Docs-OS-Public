@@ -44,7 +44,7 @@
 	
 ![Alt text](https://github.com/XXLMandalorian013/Docs-OS-Public/blob/main/Fedora/Cockpit/Manage%20Multiple%20Server%20%20-%20Fedora%20Server%20Cockpit/images/s7.png)	
 	
-8. You now have multiple server to manage in Cockpit!
+8. You now have multiple servers to manage in Cockpit!
 	
 ![Alt text](https://github.com/XXLMandalorian013/Docs-OS-Public/blob/main/Fedora/Cockpit/Manage%20Multiple%20Server%20%20-%20Fedora%20Server%20Cockpit/images/s8.png)	
 
